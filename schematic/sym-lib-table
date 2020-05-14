@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name levels)(type Legacy)(uri ${KIPRJMOD}/library/level.lib)(options "")(descr ""))
+  (lib (name levels)(type Legacy)(uri ${KIPRJMOD}/level.pretty/level.lib)(options "")(descr ""))
 )
